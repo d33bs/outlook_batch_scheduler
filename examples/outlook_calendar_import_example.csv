@@ -1,0 +1,2 @@
+Calendar,Event Name,Description,Location,Start Date,End Date,Start Time,End Time,Weekly,Sun,Mon,Tue,Wed,Thu,Fri,Sat
+SAMPLE@FAKEYFAKEADDRESS.COM,TESTING,TESTING,FAKENAME,3/26/2018,4/1/2018,11:00 PM,11:02 PM,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
